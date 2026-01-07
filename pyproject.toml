@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mini-tiktokenizer-nico"
+version = "0.1.0"
+description = "Educational byte-level BPE tokenizer (from scratch)."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["regex>=2024.0.0"]
+
+[project.scripts]
+mini-tiktokenizer = "mini_tiktokenizer.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

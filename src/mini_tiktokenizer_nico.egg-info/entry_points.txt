@@ -1,0 +1,2 @@
+[console_scripts]
+mini-tiktokenizer = mini_tiktokenizer.cli:main

@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/mini_tiktokenizer/__init__.py
+src/mini_tiktokenizer/bpe.py
+src/mini_tiktokenizer/cli.py
+src/mini_tiktokenizer/io.py
+src/mini_tiktokenizer/regex_split.py
+src/mini_tiktokenizer_nico.egg-info/PKG-INFO
+src/mini_tiktokenizer_nico.egg-info/SOURCES.txt
+src/mini_tiktokenizer_nico.egg-info/dependency_links.txt
+src/mini_tiktokenizer_nico.egg-info/entry_points.txt
+src/mini_tiktokenizer_nico.egg-info/requires.txt
+src/mini_tiktokenizer_nico.egg-info/top_level.txt
+tests/test_roundtrip.py
