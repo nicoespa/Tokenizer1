@@ -6,7 +6,7 @@ This repository contains a **from-scratch implementation** of a tokenizer simila
 The goal is not production performance, but **understanding**: making tokenization transparent, readable, and reproducible.
 
 🔗 **Interactive playground (live demo):**  
-https://tokenizer-playground-i2pegs22j-nicoespas-projects.vercel.app/
+tokenizer-playground-three.vercel.app
 
 ---
 
